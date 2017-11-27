@@ -1,2 +1,2 @@
 # Python-connectors
-Code for scraping data from flipkart mobile products and jabong and amazon iphone reviews
+Python Scraper using beautifulsoup to crawl the data from Ecom portals like flipkart, Jabong and Amazon
